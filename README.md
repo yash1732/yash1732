@@ -418,7 +418,7 @@ fun_facts:
 
 <!-- Stats Card + Streak Side by Side -->
 <a href="https://github.com/yash1732">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash1732&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Yash's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash1732&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Yash's GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/yash1732">
@@ -524,6 +524,8 @@ jobs:
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<b>⭐ If you like my work, consider giving my repositories a star!</b>
 
 <br/>
 

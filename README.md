@@ -446,86 +446,11 @@ fun_facts:
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yash1732&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" width="95%"/>
-
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- CURRENT FOCUS -->
-## 🎯 Current Focus
-
-```text
-🔭 Research     ████████████████████░░░░░   80% — Writing research paper
-🧠 Deep Learning ███████████████████░░░░░░  75% — Advanced architectures
-💬 NLP           ██████████████████░░░░░░░  70% — LLMs & RAG pipelines
-👁️ Computer Vision █████████████████░░░░░░░ 65% — Object detection & segmentation
-⚙️ MLOps         ████████████████░░░░░░░░░  60% — End-to-end pipelines
-```
-
-<br/>
-
-<!-- RANDOM DEV QUOTE -->
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash1732/yash1732/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash1732/yash1732/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yash1732/yash1732/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-<!-- NOTE: The snake animation requires a GitHub Action. Create .github/workflows/snake.yml in your profile repo with: -->
-<!--
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: yash1732
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<br/><br/>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<b>⭐ If you like my work, consider giving my repositories a star!</b>
+<!-- <b>⭐ If you like my work, consider giving my repositories a star!</b> -->
 
 <br/>
 
